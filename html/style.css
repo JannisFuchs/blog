@@ -1,0 +1,16 @@
+nav {
+        display: flex;
+        flex-direction: row;
+    }
+.item {
+        padding: 10px;
+        text-decoration: none;
+        color: #333;
+        font-weight: bold;
+    }
+.item:hover {
+        background-color: #fffff;
+    }
+.navimg {
+    max-height: 100px;
+}
