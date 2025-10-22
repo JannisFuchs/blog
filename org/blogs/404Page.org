@@ -1,3 +1,0 @@
-#+OPTIONS: toc:nil
-* 404 falsche URL
-** Diese Seite wurde nicht gefunde
