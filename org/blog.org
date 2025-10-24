@@ -3,4 +3,3 @@
 * Blogeinträge
 
 - [[file:blogs/week1.html][Beitrag Woche 1]]
-bild
