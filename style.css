@@ -14,3 +14,34 @@ nav {
 .navimg {
     max-height: 100px;
 }
+img {
+    max-width: 100%;
+    display: block;
+}
+.figure {
+    padding: 0;
+}
+body {
+    background-color: #f8f9fa;
+    font-family: 'Georgia', serif;
+}
+img {
+    border-radius: 7px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+    margin-bottom: 10px;
+}
+h1, h2, h3{
+    margin: auto;
+    text-align: center;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;           /* Optional: Tabelle nutzt die volle Breite aus */
+    border: 1px solid #444;
+}
+th, td {
+    border: 1px solid #444;
+    padding: 8px 12px;
+    text-align: left;
+}
+
