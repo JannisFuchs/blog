@@ -1,10 +1,28 @@
 #+OPTIONS: toc:nil
-#+TITLE:Mein Blog
-** hier stehen ganz viele tolle dinge
-bild von kiwi
-#+ATTR_HTML: :width 20%
-[[./images/cuteKiwi.jpg]]
+#+TITLE: Mein Abenteuer in Neuseeland
+Hallo liebe Leserinnen und Leser meines Blogs,
+am 29.11. geht die Reise nach Neuseeland, dem Land der Kiwis, los.
+Aber warum genau Neuseeland?
+Zum einen natürlich wegen der großen Vielfalt der Natur.
+Neuseeland ist neben vielen anderen Arten die Heimat des Vogels Kiwi.
+#+ATTR_HTML: :width 30%
+[[../images/cuteKiwi.jpg]]
+Er ist auch das Nationaltier von Neuseeland.
+Der Spitzname für Neuseeländer ist übrigens auch Kiwi.
+Die Kiwifrucht hat nichts mit Neuseeland zu tun, sondern kommt laut wikipedia ursprünglich aus china.
 
-Ich mag Züge
-| col 1  | col 2  | col 3  |
-| line 1 | line 2 | line 2 |
+Neuseeland hat auch beeindruckende Landschaften und bietet neben einer sehr schönen Küste auch hohe Berge zum Wandern.
+
+Es gibt dort auch eine indigene Bevölkerung die Maori.
+Sie kamen knapp 300 Jahre vor den Europäern aus Polynesien in Neuseeland an.
+
+Der wichtigste Punkt von allen ist selbstverständlich, dass dort exklusiv der Herr der Ringe gedreht wurde.
+Das sind meine absoluten Lieblingsfilme und deshalb freut es mich insbesondere die Orginaldrehorte zu besichtigen zu können.
+
+Jetzt wisst ihr warum ich unbedingt nach Neuseeland will.
+Wenn ihr meine Reise verfolgen möchtet könnt ihr auf diesen [[https://jannisfuchs.github.io/blog/blog.html][Link]] klicken.
+Dort seht ihr alle meine bisher hochgeladenen Blogs.
+Jede Woche wird da ein neuer erscheinen(sofern ich das zeitlich hinbekomme).
+
+Bis bald euer
+Jannis
