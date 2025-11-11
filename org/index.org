@@ -6,7 +6,7 @@ Aber warum genau Neuseeland?
 Zum einen natürlich wegen der großen Vielfalt der Natur.
 Neuseeland ist neben vielen anderen Arten die Heimat des Vogels Kiwi.
 #+ATTR_HTML: :width 30%
-[[../images/cuteKiwi.jpg]]
+[[./images/cuteKiwi.jpg]]
 Er ist auch das Nationaltier von Neuseeland.
 Der Spitzname für Neuseeländer ist übrigens auch Kiwi.
 Die Kiwifrucht hat nichts mit Neuseeland zu tun, sondern kommt laut wikipedia ursprünglich aus china.
