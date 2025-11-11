@@ -1,15 +1,20 @@
 nav {
         display: flex;
         flex-direction: row;
+        background: #997300;
+        padding: 10px;
+        border-radius: 7px;
     }
 .item {
-        padding: 10px;
+    padding: 10px;
+    margin: 3px;
+    border-radius: 2px;
         text-decoration: none;
         color: #333;
         font-weight: bold;
     }
 .item:hover {
-        background-color: #fffff;
+        background-color: lightgray;
     }
 .navimg {
     max-height: 100px;
@@ -42,6 +47,25 @@ table {
 th, td {
     border: 1px solid #444;
     padding: 8px 12px;
+    text-align: left;
+}
+.entry {
+    display: flex;
+    background-color: #558000;
+    border-radius: 7px;
+    text-decoration: none!important;
+    color: inherit!important;
+    margin: 10px;
+    padding: 10px
+}
+.entry:hover {
+    transform: scale(1.01);
+}
+.entrytext{
+    margin: 10px;
+    text-align: left;
+}
+.entrytext h3{
     text-align: left;
 }
 
