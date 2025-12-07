@@ -1,4 +1,12 @@
 #+TITLE: Blogübersicht
 
 
-Hier sind die Blogs zu sehen, sobald ich in Neuseeland bin.
+#+begin_export html
+<a href="blogs/week1.html" class="entry">
+<img src="./images/Flugzeug.jpg" alt="Flugzeug" class="entryimg" width="30%" />
+<div class="entrytext">
+<h3>Woche 1 (29.11-06.12): Ankunft</h3>
+Diese Woche geht es um meinen Flug, erste Eindrücke und ein paar Ausflüge.
+</div>
+</a>
+#+end_export
