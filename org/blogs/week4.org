@@ -10,7 +10,7 @@ Die restliche Strecke hat mich ein nettes schweizer Ehepaar mitgenommen.
 #+ATTR_HTML: :width 30%
 [[./images/Week4/2025-12-20 13.56.31.jpg]]
 Der Campingplatz sah sehr idyllisch und sauber aus.
-Es hat auch ein bisschen gedauert bis ich dann den Hosts gefunden habe.
+Es hat auch ein bisschen gedauert bis ich dann die Hosts gefunden habe.
 Die leben auf dem Campingplatz in so einem Wohwagen.
 Das fand ich auch cool.
 Nachdem ich das Zelt aufgebaut habe, bin ich erstmal auf eine kleine Wanderung gegangen rund um den Campingplatz.
@@ -30,6 +30,8 @@ Dort gibt es viele verschiedene kleinere Wanderwege die zwischen 30min und 1,5h 
 Allerdings lassen sich viele davon miteinander kombinieren.
 Das heißt ich bin erstmal einen Teil von dem Pa Loop Track und dem Rua Loop Track vom Tag davor entlanggelaufen.
 Von dem nördlichsten Punkt ging der Nikau-Track mitten durch den Wald.
+Hier findet ihr die Karte, wenn es euch interessiert:
+https://www.aucklandcouncil.govt.nz/content/dam/ac/images/parks-recreation/parks/w/whakanewha-regional-park/map-whakanewha-regional-park.pdf
 Danach bin ich zu dem Cascade-Stream und dem Mamaku-Track bzw. Cascade-Loop gegangen.
 #+ATTR_HTML: :width 30%
 [[./images/Week4/2025-12-21 10.09.07.jpg]]
@@ -66,7 +68,7 @@ An Weihnachten hat jeder so ein bisschen was gekocht. Ich hab einen Eintopf aus 
 Die Gerichte haben wir dann untereinander geteilt. Es gab Obstsalat, Kimchi und vieles mehr.
 Das war richtig schön. Mit dabei war auch Stella vom Team des Hostels.
 Danach haben wir den Weihnachtsfilm Klaus geschaut.
-In dem geht es hauptsächlich um den Postboten Jesper, der in eine Stadt namens Smeerenburg versezt wird.
+In dem geht es hauptsächlich um den Postboten Jesper, der in eine Stadt namens Smeerenburg versetzt wird.
 Dort hassen sich alle Bewohner gegenseitig und es wird nicht wirklich Post geschickt.
 Aber er findet Klaus der außerhalb der Stadt wohnt und viel Kinderspielzeug besitzt.
 Jesper bringt die Kinder dazu Briefe an Klaus zu schreiben und er fährt dann die Geschenke von Klaus zu den Kindern.
