@@ -45,8 +45,18 @@ Die Woche hat mit einem coolen Campingtrip begonnen und war danach ziemlich ents
 <a href="blogs/week5.html" class="entry">
 <img src="./images/week5/2026-01-03 13.57.44.jpg" alt="funny picture" class="entryimg" width="30%" />
 <div class="entrytext">
-<h3>Woche 5(29.12-04.01): Neujahr und Piha</h3>
+<h3>Woche 5(29.12-03.01): Neujahr und Piha</h3>
 In dieser Woche habe ich Silvester gefeiert und bin zu dem Piha Campground gefahren.
+</div>
+</a>
+#+end_export
+
+#+begin_export html
+<a href="blogs/week6.html" class="entry">
+<img src="./images/week6/signal-2026-01-09-091533_006.jpeg" alt="funny picture" class="entryimg" width="30%" />
+<div class="entrytext">
+<h3>Woche 6(04.01-10.01): Abschied von meinen Eltern</h3>
+In dieser Woche sind meine Eltern wieder nach Deutschland zurückgeflogen und wir hatten noch eine schöne gemeinsame Zeit.
 </div>
 </a>
 #+end_export
