@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2026-01-26 Mo 12:06 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Das etwas stressige Abenteuer</title>
+<meta name="author" content="Huchsle" />
+<meta name="generator" content="Org Mode" />
+<style type="text/css">
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+<base href="/blog/"/>
+             <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div id="preamble" class="status">
+<nav>
+             <a  href="index.html"><img class="navimg" src="images/Flag_of_New_Zealand.svg" alt="new zealand flag"/></a>
+             <a class="item" href="index.html">Home</a>
+             <a class="item" href="blog.html">Blog</a>
+             </nav>
+</div>
+<div id="content" class="content">
+<h1 class="title">Das etwas stressige Abenteuer</h1>
+<div id="outline-container-orge948a8b" class="outline-2">
+<h2 id="orge948a8b">Sonntag und Montag</h2>
+<div class="outline-text-2" id="text-orge948a8b">
+<p>
+Am Sonntag hab ich festgestellt, dass ich mein Geldbeutel und Zimmerschlüssel im Auto von Russel vergessen habe.
+Ich hab ihm dann natürlich angeschrieben und mit ihm ausgemacht, dass er die Sachen bei dem Hostel Lylo hinterlegen kann.
+Von da aus wollte ich ihn sie zuschicken lassen.
+Dann hab ich mehrfach versucht mit Lylo auszumachen wie das mit dem zuschicken funktioniert.
+Nach sehr viel hin und her und langer Wartezeit haben die dann gesagt, dass ich ihnen das Paket in dem sie mir das Zeug schicken, zuschicken soll.
+Da in dem Nationalpark keine Poststelle, ist war das natürlich keine Option.
+Also musste ich nach Auckland fahren.
+</p>
+</div>
+</div>
+<div id="outline-container-orgd0a4800" class="outline-2">
+<h2 id="orgd0a4800">Dienstag</h2>
+<div class="outline-text-2" id="text-orgd0a4800">
+<p>
+Ausgerechnet an dem Tag hat im Nationalpark gar kein Intercity-Bus gehalten.
+Also musste ich wieder per Anhalter fahren.
+Diesmal hat es fast ne Stunde gedauert bis Tilly angehalten hat.
+Das war ne coole und witzige Neuseeländerin mit der die Autfahrt ziemlich Spaß gemacht hat.
+Sie hat mich bis nach Hamilton mitgenommen.
+Von dort aus bin ich dann mit dem Bus weiter nach Auckland.
+Als erstes bin ich dann natürlich direkt zu Lylo und hab mir die Sachen geben lassen.
+Da ich ziemlich sauer war wie kompliziert sie die ganze Aktion gemacht haben und ich von Lylo sowieso nicht so begeistert war, hab ich in United Auckland übernachtet.
+Dort hab ich ein 6 Bett Zimmer bekommen, in dem ich allein war.
+Das war schon ziemlich cool.
+Es waren auch noch einige Leute da, die ich kannte.
+Also der Abend war ziemlich gut.
+</p>
+</div>
+</div>
+<div id="outline-container-orgec4be15" class="outline-2">
+<h2 id="orgec4be15">Mittwoch</h2>
+<div class="outline-text-2" id="text-orgec4be15">
+<p>
+Der einzige Bus zum Nationalpark, ist schon um 9 gefahren.
+Es gibt in United Auckland kostenloses Frühstück ab 8:30.
+Zum Glück hatte an dem Tag Stella Frühschicht, die schon um 8:20 das Frühstück hinstellt.
+Das heißt ich konnte entspannt essen und mir sogar was für die Fahrt richten und kam immer noch 5 min an bevor der Bus losgefahren ist.
+Dann ich bis in den Nachmittag Bus gefahren und dann hab ich auch nur noch gepackt.
+</p>
+
+<p>
+Das waren die bisher stressigsten 4 Tage. Aber es ist alles gut ausgegangen und die Erleichterung überwiegt fast den Stress.
+Außerdem war sowieso die ganze Zeit schlechtes Wetter. Ich hab also nicht wirklich was verpasst.
+</p>
+</div>
+</div>
+<div id="outline-container-orgfe99037" class="outline-2">
+<h2 id="orgfe99037">Donnerstag</h2>
+<div class="outline-text-2" id="text-orgfe99037">
+<p>
+Das war wahrscheinlich meine längste Busreise bisher.
+Ich bin erst so gegen 22:00 Uhr in Wellington angekommen.
+Zum Glück hat die Rezeption in dem Hostel Capital Wellington 24h offen und ich konnte ohne Probleme einchecken.
+</p>
+</div>
+</div>
+<div id="outline-container-org199714b" class="outline-2">
+<h2 id="org199714b">Freitag</h2>
+<div class="outline-text-2" id="text-org199714b">
+<p>
+Da mir der Rucksack mittlerweile echt etwas zu schwer und zu voll ist, hab ich ein paar Klamotten aussortiert und gespendet.
+Abgesehen davon hab ich mir noch etwas Wellington angeschaut und Sachen eingekauft.
+</p>
+</div>
+</div>
+<div id="outline-container-org1519513" class="outline-2">
+<h2 id="org1519513">Samstag</h2>
+<div class="outline-text-2" id="text-org1519513">
+<p>
+An dem Tag bin ich mit der Seilbahn zum botanischen Garten von Wellington gefahren.
+Die Seilbahn ist zwischendurch durch ein beleuchteten Tunnel gefahren.
+<img src="./images/week8/2026-01-24 11.32.02.jpg" alt="2026-01-24 11.32.02.jpg" />
+Es gab auch ein Planetarium mit einem großem Teleskop und einer Art Museum.
+<img src="./images/week8/2026-01-24 13.07.33.jpg" alt="2026-01-24 13.07.33.jpg" />
+Das habe ich dann zuerst besucht.
+Danach habe ich ein bisschen den Park bzw. botanischen Garten erkundet.
+Es gab dort echt viele Wege.
+<img src="./images/week8/2026-01-24 11.45.17.jpg" alt="2026-01-24 11.45.17.jpg" />
+<img src="./images/week8/2026-01-24 15.48.29.jpg" alt="2026-01-24 15.48.29.jpg" />
+</p>
+</div>
+</div>
+<div id="outline-container-org84b1061" class="outline-2">
+<h2 id="org84b1061">Sonntag</h2>
+<div class="outline-text-2" id="text-org84b1061">
+<p>
+An dem Tag bin ich endlich wieder Zug gefahren.
+Wellington hat nämlich ein ganz passables Netz zu den Stadtteilen und Vororten.
+Ich bin nach Upper Hut gefahren, um mir dort die Gärten von Isengard aus Herr der Ringe anzuschauen.
+Diese wurden im Harcourt-Park gedreht.
+So richtig erkannt hab ich die Filmszenen zwar nicht aber der Park ist trotzdem schön.
+Er hat sogar ein mini-Straßennetz aufgebaut, wo Kinder den Straßenverkehr üben können.
+<img src="./images/week8/2026-01-25 15.10.18.jpg" alt="2026-01-25 15.10.18.jpg" />
+</p>
+</div>
+</div>
+</div>
+</body>
+</html>
