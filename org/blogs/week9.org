@@ -3,7 +3,7 @@
 
 * Montag
 An diesem Tag war ich auf Mt. Victoria.
-Das ist ein kleinerer Berg in einem Grünstreifen mitten Auckland.
+Das ist ein kleinerer Berg in einem Grünstreifen mitten in Wellington.
 Die Aussicht von da aus auf die Stadt ist ziemlich gut.
 #+ATTR_HTML: :width 30%
 [[./images/week9/2026-01-26 13.51.20.jpg]]
