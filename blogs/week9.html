@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2026-02-02 Mo 08:50 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Die Überfahrt</title>
+<meta name="author" content="Huchsle" />
+<meta name="generator" content="Org Mode" />
+<style type="text/css">
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+<base href="/blog/"/>
+             <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div id="preamble" class="status">
+<nav>
+             <a  href="index.html"><img class="navimg" src="images/Flag_of_New_Zealand.svg" alt="new zealand flag"/></a>
+             <a class="item" href="index.html">Home</a>
+             <a class="item" href="blog.html">Blog</a>
+             </nav>
+</div>
+<div id="content" class="content">
+<h1 class="title">Die Überfahrt</h1>
+<div id="outline-container-org2f34c55" class="outline-2">
+<h2 id="org2f34c55">Montag</h2>
+<div class="outline-text-2" id="text-org2f34c55">
+<p>
+An diesem Tag war ich auf Mt. Victoria.
+Das ist ein kleinerer Berg in einem Grünstreifen mitten Auckland.
+Die Aussicht von da aus auf die Stadt ist ziemlich gut.
+</p>
+<p width="30%">
+<img src="./images/week9/2026-01-26 13.51.20.jpg" alt="2026-01-26 13.51.20.jpg" width="30%" />
+In dem Waldstück drum herum gab es echt viele coole Wanderwege und auch Mountainbikingstrecken.
+</p>
+<p width="30%">
+<img src="./images/week9/2026-01-26 14.31.04.jpg" alt="2026-01-26 14.31.04.jpg" width="30%" />
+In dem Park wurde auch wieder was von Herr der Ringe gedreht nämlich die Szene, in der sich die Hobbits von den Nazgul verstecken.
+</p>
+<p width="30%">
+<img src="./images/week9/2026-01-26 14.53.09.jpg" alt="2026-01-26 14.53.09.jpg" width="30%" />
+Ja das sieht jetzt nicht mehr ganz so aus wie im Film aber mit ein bisschen Fantasie lässt sich das schon erkennen.
+</p>
+<p width="30%">
+<img src="./images/week9/HobbitsHiding.png" alt="HobbitsHiding.png" width="30%" />
+Vor allem, dass der Baum daneben mittlerweile nicht mehr steht finde ich sehr schade.
+Naja das ist halt auch mittlerweile fast 30 Jahre her, dass das gedreht wurde.
+</p>
+</div>
+</div>
+<div id="outline-container-org50814f2" class="outline-2">
+<h2 id="org50814f2">Dienstag</h2>
+<div class="outline-text-2" id="text-org50814f2">
+<p>
+An dem Tag bin ich zum Weta Workshop gegangen.
+Das ist das Studio, was die Kostüme und andere Props wie Schwerter für Herr der Ringe, Narnia, Dune und sehr viel mehr gemacht hat.
+Es hat auch so ein kleines Museum und ein Shop für Herr der Ringe Fans.
+</p>
+
+<div id="org17e01c5" class="figure">
+<p><img src="./images/week9/2026-01-27 13.11.41.jpg" alt="2026-01-27 13.11.41.jpg" width="30%" />
+</p>
+</div>
+
+<div id="orgeb3d4fe" class="figure">
+<p><img src="./images/week9/2026-01-27 13.07.37.jpg" alt="2026-01-27 13.07.37.jpg" width="30%" />
+</p>
+</div>
+
+<p>
+Dazu gab es auch eine kleine Tour, wie das mit dem Workshop angefangen hat und wie sie arbeiten.
+Leider war gab es für den Großteil der Tour ein Fotoverbot.
+Aber es war auf jeden Fall sehr interessant zu hören wie Kettenhemden, Schwerter und Silikonmasken gefertigt werden.
+Der eine Teil der Tour bei dem man Fotos machen durfte war quasi das Atelier.
+</p>
+<p width="30%">
+<img src="./images/week9/2026-01-27 14.23.19.jpg" alt="2026-01-27 14.23.19.jpg" width="30%" />
+Am Schluss wurde uns noch gezeigt, wie aus Alufolie die Skulpuren für Filme gefertigt werden.
+</p>
+<p width="30%">
+<img src="./images/week9/Alufolie.png" alt="Alufolie.png" width="30%" />
+Vor dem Workshop waren noch Trolle ausgestellt.
+</p>
+
+<div id="org8dbdc73" class="figure">
+<p><img src="./images/week9/2026-01-27 15.16.09.jpg" alt="2026-01-27 15.16.09.jpg" width="30%" />
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org9821f21" class="outline-2">
+<h2 id="org9821f21">Mittwoch</h2>
+<div class="outline-text-2" id="text-org9821f21">
+<p>
+Das es ziemlich gutes Wetter war bin ich zum Kaitoke Regional Park gefahren.
+Dort wurden die meisten Szenen für Rivendell gedreht.
+</p>
+<p width="30%">
+<img src="./images/week9/2026-01-28 11.51.08.jpg" alt="2026-01-28 11.51.08.jpg" width="30%" />
+Danach bin ich nen ziemlich coolen Rundweg gelaufen, bei dem ich auch teilweise klettern musste.
+Es ist jetzt vielleicht nicht so gut zu erkennen aber da war tatsächlich ein Weg.
+</p>
+
+<div id="org884e804" class="figure">
+<p><img src="./images/week9/2026-01-28 12.34.52.jpg" alt="2026-01-28 12.34.52.jpg" width="30%" />
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org729ae97" class="outline-2">
+<h2 id="org729ae97">Freitag</h2>
+<div class="outline-text-2" id="text-org729ae97">
+<p>
+An diesem Tag bin ich mit der Fähre Interislander nach Picton gefahren.
+Die Überfahrt war sehr sehr schön.
+Vor allem der Blick auf die Südinsel.
+</p>
+<p width="30%">
+<img src="./images/week9/2026-01-30 18.58.30.jpg" alt="2026-01-30 18.58.30.jpg" width="30%" />
+Am Abend hab ich mir dann nur Picton etwas angeschaut aber da gabs jetzt nicht wirklich was zu sehen.
+Die Stadt ist irgendwie nur Transferbereich zwischen den beiden Inseln.
+</p>
+</div>
+</div>
+<div id="outline-container-org2c98b1c" class="outline-2">
+<h2 id="org2c98b1c">Samstag</h2>
+<div class="outline-text-2" id="text-org2c98b1c">
+<p>
+Bevor ich mit dem Bus weiter zu Nelson, meinem ersten richtigen Ziel auf der Südinsel, gefahren bin, hab ich mir noch einen lookout am Rande von Picton angeschaut.
+</p>
+
+<div id="org85e7464" class="figure">
+<p><img src="./images/week9/2026-01-31 11.47.10.jpg" alt="2026-01-31 11.47.10.jpg" width="30%" />
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-orgaa438fa" class="outline-2">
+<h2 id="orgaa438fa">Sonntag</h2>
+<div class="outline-text-2" id="text-orgaa438fa">
+<p>
+In Nelson angekommen hab ich mir zuerst 2 Parks angeschaut.
+Zum einen den Queen's Garden und das Botanical Reserve bzw. den Branford Park.
+Der Queens Garden ist ein idyllischer Garten zu Ehren von Queen Victoria in der Mitte der Stadt.
+</p>
+<p width="30%">
+<img src="./images/week9/2026-02-01 11.14.03.jpg" alt="2026-02-01 11.14.03.jpg" width="30%" />
+Daran angeschlossen ist ein chinesischer Garten.
+</p>
+
+<div id="org868c10e" class="figure">
+<p><img src="./images/week9/2026-02-01 11.22.37.jpg" alt="2026-02-01 11.22.37.jpg" width="30%" />
+</p>
+</div>
+
+<p>
+Von dort aus bin ich zum Botanical Reserve gelaufen.
+Das besteht aus mehreren Teilen.
+Zum einen einem Cricket und Rugby-Feld, dem Botanical Hill und dem Branford Park.
+Der Hill ist der geographische Mittelpunkt von Neuseeland.
+An der Spitze gibt es dazu auch ein Denkmal.
+</p>
+<p width="30%">
+<img src="./images/week9/2026-02-01 11.56.15.jpg" alt="2026-02-01 11.56.15.jpg" width="30%" />
+Danach hab ich mir noch etwas den Branford Park angeschaut.
+</p>
+</div>
+</div>
+</div>
+</body>
+</html>
