@@ -79,3 +79,13 @@ In dieser Woche bin ich den Großteil der Zeit durch die Gegend gereist.
 </div>
 </a>
 #+end_export
+
+#+begin_export html
+<a href="blogs/week9.html" class="entry">
+<img src="./images/week9/2026-01-30 17.58.26.jpg" alt="funny picture" class="entryimg" width="30%" />
+<div class="entrytext">
+<h3>Woche 9(26.01-01.02.): Die Überfahrt</h3>
+In dieser Woche bin ich von Wellington nach Picton mit der Fähre und dann weiter nach Nelson.
+</div>
+</a>
+#+end_export

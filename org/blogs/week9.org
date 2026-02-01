@@ -1,0 +1,85 @@
+#+OPTIONS: toc:nil
+#+TITLE: Die Überfahrt
+
+* Montag
+An diesem Tag war ich auf Mt. Victoria.
+Das ist ein kleinerer Berg in einem Grünstreifen mitten Auckland.
+Die Aussicht von da aus auf die Stadt ist ziemlich gut.
+#+ATTR_HTML: :width 30%
+[[./images/week9/2026-01-26 13.51.20.jpg]]
+In dem Waldstück drum herum gab es echt viele coole Wanderwege und auch Mountainbikingstrecken.
+#+ATTR_HTML: :width 30%
+[[./images/week9/2026-01-26 14.31.04.jpg]]
+In dem Park wurde auch wieder was von Herr der Ringe gedreht nämlich die Szene, in der sich die Hobbits von den Nazgul verstecken.
+#+ATTR_HTML: :width 30%
+[[./images/week9/2026-01-26 14.53.09.jpg]]
+Ja das sieht jetzt nicht mehr ganz so aus wie im Film aber mit ein bisschen Fantasie lässt sich das schon erkennen.
+#+ATTR_HTML: :width 30%
+[[./images/week9/HobbitsHiding.png]]
+Vor allem, dass der Baum daneben mittlerweile nicht mehr steht finde ich sehr schade.
+Naja das ist halt auch mittlerweile fast 30 Jahre her, dass das gedreht wurde.
+
+* Dienstag
+An dem Tag bin ich zum Weta Workshop gegangen.
+Das ist das Studio, was die Kostüme und andere Props wie Schwerter für Herr der Ringe, Narnia, Dune und sehr viel mehr gemacht hat.
+Es hat auch so ein kleines Museum und ein Shop für Herr der Ringe Fans.
+#+ATTR_HTML: :width 30%
+[[./images/week9/2026-01-27 13.11.41.jpg]]
+#+ATTR_HTML: :width 30%
+[[./images/week9/2026-01-27 13.07.37.jpg]]
+
+Dazu gab es auch eine kleine Tour, wie das mit dem Workshop angefangen hat und wie sie arbeiten.
+Leider war gab es für den Großteil der Tour ein Fotoverbot.
+Aber es war auf jeden Fall sehr interessant zu hören wie Kettenhemden, Schwerter und Silikonmasken gefertigt werden.
+Der eine Teil der Tour bei dem man Fotos machen durfte war quasi das Atelier.
+#+ATTR_HTML: :width 30%
+[[./images/week9/2026-01-27 14.23.19.jpg]]
+Am Schluss wurde uns noch gezeigt, wie aus Alufolie die Skulpuren für Filme gefertigt werden.
+#+ATTR_HTML: :width 30%
+[[./images/week9/Alufolie.png]]
+Vor dem Workshop waren noch Trolle ausgestellt.
+#+ATTR_HTML: :width 30%
+[[./images/week9/2026-01-27 15.16.09.jpg]]
+
+* Mittwoch
+Das es ziemlich gutes Wetter war bin ich zum Kaitoke Regional Park gefahren.
+Dort wurden die meisten Szenen für Rivendell gedreht.
+#+ATTR_HTML: :width 30%
+[[./images/week9/2026-01-28 11.51.08.jpg]]
+Danach bin ich nen ziemlich coolen Rundweg gelaufen, bei dem ich auch teilweise klettern musste.
+Es ist jetzt vielleicht nicht so gut zu erkennen aber da war tatsächlich ein Weg.
+#+ATTR_HTML: :width 30%
+[[./images/week9/2026-01-28 12.34.52.jpg]]
+
+* Freitag
+An diesem Tag bin ich mit der Fähre Interislander nach Picton gefahren.
+Die Überfahrt war sehr sehr schön.
+Vor allem der Blick auf die Südinsel.
+#+ATTR_HTML: :width 30%
+[[./images/week9/2026-01-30 18.58.30.jpg]]
+Am Abend hab ich mir dann nur Picton etwas angeschaut aber da gabs jetzt nicht wirklich was zu sehen.
+Die Stadt ist irgendwie nur Transferbereich zwischen den beiden Inseln.
+
+* Samstag
+Bevor ich mit dem Bus weiter zu Nelson, meinem ersten richtigen Ziel auf der Südinsel, gefahren bin, hab ich mir noch einen lookout am Rande von Picton angeschaut.
+#+ATTR_HTML: :width 30%
+[[./images/week9/2026-01-31 11.47.10.jpg]]
+
+* Sonntag
+In Nelson angekommen hab ich mir zuerst 2 Parks angeschaut.
+Zum einen den Queen's Garden und das Botanical Reserve bzw. den Branford Park.
+Der Queens Garden ist ein idyllischer Garten zu Ehren von Queen Victoria in der Mitte der Stadt.
+#+ATTR_HTML: :width 30%
+[[./images/week9/2026-02-01 11.14.03.jpg]]
+Daran angeschlossen ist ein chinesischer Garten.
+#+ATTR_HTML: :width 30%
+[[./images/week9/2026-02-01 11.22.37.jpg]]
+
+Von dort aus bin ich zum Botanical Reserve gelaufen.
+Das besteht aus mehreren Teilen.
+Zum einen einem Cricket und Rugby-Feld, dem Botanical Hill und dem Branford Park.
+Der Hill ist der geographische Mittelpunkt von Neuseeland.
+An der Spitze gibt es dazu auch ein Denkmal.
+#+ATTR_HTML: :width 30%
+[[./images/week9/2026-02-01 11.56.15.jpg]]
+Danach hab ich mir noch etwas den Branford Park angeschaut.
