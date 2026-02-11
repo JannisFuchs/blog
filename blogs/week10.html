@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2026-02-11 Mi 20:01 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Abel Tasman und Nelson</title>
+<meta name="author" content="Huchsle" />
+<meta name="generator" content="Org Mode" />
+<style type="text/css">
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+<base href="/blog/"/>
+             <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div id="preamble" class="status">
+<nav>
+             <a  href="index.html"><img class="navimg" src="images/Flag_of_New_Zealand.svg" alt="new zealand flag"/></a>
+             <a class="item" href="index.html">Home</a>
+             <a class="item" href="blog.html">Blog</a>
+             </nav>
+</div>
+<div id="content" class="content">
+<h1 class="title">Abel Tasman und Nelson</h1>
+<div id="outline-container-org6032376" class="outline-2">
+<h2 id="org6032376">Montag</h2>
+<div class="outline-text-2" id="text-org6032376">
+<p>
+An dem Tag bin ich nach Brook Valley gefahren und bin in der Sanctuary gewandert.
+Das ist ein mit einem Zaun abgesperrter Bereich in dem streng darauf geachtet wird, dass keine Schädlinge reinkommen.
+Der Eintritt kostet auch was aber das ist es wert.
+Es gibt dort wirklich schöne Wanderwege, die an dem Fluss Brook entlang gehen und ihn manchmal überqueren.
+Die können auch manchmal etwas herausfordernd sein.
+</p>
+<p width="30%">
+<img src="./images/week10/2026-02-02 13.50.43.jpg" alt="2026-02-02 13.50.43.jpg" width="30%" />
+Danach bin ich noch etwas dem Strand von Nelson entlang gelaufen.
+Da gibts auch einen schönen Park.
+Ich wollte da eigentlich ein Bild vom Sonnenuntergang machen aber dieses eine Wolkenband am Himmel hatte da was dagegen.
+</p>
+
+<div id="org8989b3d" class="figure">
+<p><img src="./images/week10/2026-02-02 20.36.25.jpg" alt="2026-02-02 20.36.25.jpg" width="30%" />
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org56fcb3d" class="outline-2">
+<h2 id="org56fcb3d">Dienstag</h2>
+<div class="outline-text-2" id="text-org56fcb3d">
+<p>
+Vom Tag davor war ich noch ziemlich kaputt und hab von dem her einfach ein bisschen geplant und hab mit der Job-Suche angefangen.
+Am Abend war ich dann noch mit ein paar Leuten vom Hostel bei ner Bar.
+Generell finde ich es cool wie leicht es ist mit Leuten ins Gespräch zu kommen.
+Die Bar war jetzt nicht sonderlich voll, also standen 2 Leute von von der Bar einfach die ganze Zeit bei uns am Tisch und haben mit uns geredet.
+Gut geholfen hat da jetzt auch, dass Emma sowohl bei der Bar als auch beim Hostel arbeitet und schon irgendwie Teil der Gruppe war.
+</p>
+<p width="30%">
+<img src="./images/week10/2026-02-03 23.58.31.jpg" alt="2026-02-03 23.58.31.jpg" width="30%" />
+Die allermeisten, die in den Hostels arbeiten sind selbst Reisende, die dann für 3-4 Tage in der Woche 1-2 Monate da arbeiten.
+Sollte das mit der Farm nix werden könnte ich mir sowas auch vorstellen.
+Viele Farmjobs sind halt im Sommer und da ist die Zeit in der ich eigentlich reisen will.
+</p>
+</div>
+</div>
+<div id="outline-container-orgf281aa9" class="outline-2">
+<h2 id="orgf281aa9">Mittwoch</h2>
+<div class="outline-text-2" id="text-orgf281aa9">
+<p>
+Es gibt im Brook Valley nicht nur die Sanctuary sondern auch noch andere Wanderwege.
+Also bin ich dann den Greenwoods Weg gegangen.
+Da dieser relativ kurz war hab ich mir noch die Nelson Cathedral angeschaut und war im Nelson Provincial Museum.
+</p>
+<p width="30%">
+<img src="./images/week10/2026-02-04 15.57.55.jpg" alt="2026-02-04 15.57.55.jpg" width="30%" />
+Dort war es auch ganz nett.
+</p>
+</div>
+</div>
+<div id="outline-container-org11a35d6" class="outline-2">
+<h2 id="org11a35d6">Donnerstag</h2>
+<div class="outline-text-2" id="text-org11a35d6">
+<p>
+An meinem letzten Tag in Nelson bin ich noch ein bischen in Parks gelaufen, die ich noch nicht gesehen hab.
+Das ist der Miyazu Japanese Garden.
+</p>
+<p width="30%">
+<img src="./images/week10/2026-02-05 15.37.27.jpg" alt="2026-02-05 15.37.27.jpg" width="30%" />
+Am Abend war ich nochmal mit den Leuten bei ner Bar.
+</p>
+</div>
+</div>
+<div id="outline-container-org357de8d" class="outline-2">
+<h2 id="org357de8d">Freitag</h2>
+<div class="outline-text-2" id="text-org357de8d">
+<p>
+Mit einem Shuttle bin ich zum Abel Tasman National Park zum Old McDonald Farm Campingplatz gefahren.
+Nachdem ich das Zelt aufgebaut habe, bin ich um den Campingplatz gelaufen und hab mir mal die direkte Umgebung angeschaut.
+</p>
+</div>
+</div>
+<div id="outline-container-orgfbb0108" class="outline-2">
+<h2 id="orgfbb0108">Samstag</h2>
+<div class="outline-text-2" id="text-orgfbb0108">
+<p>
+Das war ein weiteres Highlight von meinem Neuseeland-Trip.
+Ich war den ganzen Tag an der Küste vom Abel Tasman Nationalpark kajaken.
+Wir sind von Marahau Beach erstmal etwas der Küste entlang und dann zu Adele Island.
+Da haben wir einige Robben und ganz viele Vögel gesehen.
+Der rote Kreis ist ne Robbe
+</p>
+
+<div id="orga425e52" class="figure">
+<p><img src="./images/week10/2026-02-07 11.01.20.jpg" alt="2026-02-07 11.01.20.jpg" width="30%" />
+</p>
+</div>
+<p width="30%">
+<img src="./images/week10/2026-02-07 10.37.42.jpg" alt="2026-02-07 10.37.42.jpg" width="30%" />
+Im zweiten Bild ist glaube ich auch eine.
+Was ich besonders cool fand war wie klar das Wasser ist.
+Als ich im Wasser war konnte ich einfach meine Füße sehen.
+An anderen Stellen konnte ich so geschätzt auf 3-4m tiefen Grund schauen.
+Wir sind dann auch mit dem Kajak in so ne kleine Höhle rein.
+</p>
+<p width="30%">
+<img src="./images/week10/2026-02-07 13.51.52.jpg" alt="2026-02-07 13.51.52.jpg" width="30%" />
+Was ich auch super fande war, dass die Gruppe richtig klein war.
+Am Anfang waren noch 2 Frauen dabei aber die haben ne leicht andere Tour gebucht und sind von einem Strand dann zu einem Segelboot gelaufen, was sie dann zurückgefahren hat.
+Ich hatte dann den Rest der Zeit quasi ne private Tour mit Jessica dem Guide.
+</p>
+</div>
+</div>
+<div id="outline-container-orgbf26fec" class="outline-2">
+<h2 id="orgbf26fec">Sonntag</h2>
+<div class="outline-text-2" id="text-orgbf26fec">
+<p>
+An dem Tag hatte ich meine komplizierteste Hitchhiking Erfahrung, weil ich für einen Tagesausflug bei insgesamt 7 verschiedenen Autos mitgefahren bin.
+Ich bin zu den Canaan Downs um ein Herr der Ringe Drehort zu sehen.
+Erst von Marahau zu einem Highway dann hats 2 Stops gebrauht um zur Canaan Road zu kommen.
+Da hab ich dann wirklich Glück gebraucht, weil die Canaan Road führt quasi ausschließlich zu meinem Ziel, einem kleinen Parkplatz von dem man aus wandern kann.
+Zum Glück waren da zwei deutsche Herr der Ringe Fans, die das gleiche sehen wollten.
+Vom Carpark aus bin ich dann allein weitergewandert und hab erstmal den Drehort gesucht aber leider nicht gefunden.
+Stattdessen war ich dann ein wenig einfach so in dem Wald.
+</p>
+<p width="30%">
+<img src="./images/week10/2026-02-08 13.20.17.jpg" alt="2026-02-08 13.20.17.jpg" width="30%" />
+Der Weg war auch ganz schön und es sah schon etwas nach Herr der Ringe aus, schließlich war es immer noch der gleiche Wald nur die exakte Stelle.
+Ich hab dann mit anderen Wanderen noch darüber gesprochen wie man am besten die Stellen findet und dann meinte einer sie hätten ein Buch mit allen GPS-Stellen.
+Da dachte mich mir dann auch, dass ich da hätte früher dran denken könnte direkt nach sowas zu suchen.
+Das hab ich dann auch in Nelson gemacht und tatsächlich hat jemand eine Karte mit allen Herr der Ringe Filmorten erstellt.
+<a href="https://www.google.com/maps/d/viewer?mid=1L6-fZ_OAS3VhY41tsZlkKATFlsI&amp;ll=-40.96597263876322%2C175.72397819357042&amp;z=7">Karte</a>
+Ich hab dann auch ziemlich schnell die Entscheidung getroffen, definitiv nicht zu jedem Berg und zu jedem Wald zu gehen.
+Dafür ist es ohne Auto viel zu kompliziert und manchmal auch einfach nicht wert. Die Gärten von Isengard hätten sie beispielsweise in jedem x-beliebigen Park drehen können.
+Sowas großes wie Edoras ist hingegen ziemlich cool. Da gibts auch ne geführte Tour mit viel Behind-the-Scenes-Nerd Infos.
+</p>
+</div>
+</div>
+<div id="outline-container-orgbf287f4" class="outline-2">
+<h2 id="orgbf287f4">Montag</h2>
+<div class="outline-text-2" id="text-orgbf287f4">
+<p>
+An dem Tag bin ich ein Teil vom Abel Tasman Coastal Trak gelaufen.
+Der gesamte Track ist eine Mehrtageswanderung von 3-5 Tagen.
+Ich bin hingegen nur bis Bark Bay gelaufen und hab dann das Wassertaxi zurück genommen.
+Gleich zum Start hab ich einen Kormoran beim Trocknen beobachten können.
+</p>
+<p width="30%">
+<img src="./images/week10/2026-02-09 08.59.15.jpg" alt="2026-02-09 08.59.15.jpg" width="30%" />
+Das sind Vögel die Fische jagen aber kein wasserabweisendes Gefieder haben.
+Dadurch haben sie kein Auftrieb und könnnen schneller und tiefer tauchen.
+Deshalb müssen sie sich danach an Land trocknen.
+Die meiste Zeit führt der Track durch den Wald aber es gibt immer wieder Wege abseits, die dann zu Stränden führen.
+Es gibt auch immer wieder kleine Ströme und Wasserfälle.
+</p>
+
+<div id="org1a1cff5" class="figure">
+<p><img src="./images/week10/2026-02-09 10.01.19.jpg" alt="2026-02-09 10.01.19.jpg" width="30%" />
+</p>
+</div>
+
+<div id="org0ab87ec" class="figure">
+<p><img src="./images/week10/2026-02-09 10.42.19.jpg" alt="2026-02-09 10.42.19.jpg" width="30%" />
+</p>
+</div>
+
+<p>
+Was ich bei dem Campingplatz auch richtig cool fande war, dass es eine Küche und ne Art Gemeinschaftsraum gab mit Tischen und Sesseln und sowas.
+Ich hab mich da auch ganz gut mit so Kajak-Guides verstanden.
+Die leben auf dem Campingplatz und arbeiten saisonal.
+</p>
+</div>
+</div>
+<div id="outline-container-org3cd33ad" class="outline-2">
+<h2 id="org3cd33ad">Mittwoch</h2>
+<div class="outline-text-2" id="text-org3cd33ad">
+<p>
+Am Tag davor bin ich wieder nach Nelson gefahren.
+An diesem Tag hab ich ein bisschen was organisatorisches erledigt und hab mich mit Loek und Eva, die ich noch von Auckland kannte, getroffen.
+Die beiden sind an dem Tag in Nelson angekommen und gehen noch zum Abel Tasman.
+</p>
+</div>
+</div>
+</div>
+</body>
+</html>
