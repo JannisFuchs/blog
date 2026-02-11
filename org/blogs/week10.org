@@ -51,7 +51,7 @@ Das war ein weiteres Highlight von meinem Neuseeland-Trip.
 Ich war den ganzen Tag an der Küste vom Abel Tasman Nationalpark kajaken.
 Wir sind von Marahau Beach erstmal etwas der Küste entlang und dann zu Adele Island.
 Da haben wir einige Robben und ganz viele Vögel gesehen.
-Der rote Kreis ist ne Robbe
+Der rote Kreis ist ne Robbe.
 #+ATTR_HTML: :width 30%
 [[./images/week10/2026-02-07 11.01.20.jpg]]
 #+ATTR_HTML: :width 30%
@@ -75,14 +75,14 @@ Da hab ich dann wirklich Glück gebraucht, weil die Canaan Road führt quasi aus
 Zum Glück waren da zwei deutsche Herr der Ringe Fans, die das gleiche sehen wollten.
 Zurück musste ich nur bei 3 Autos mitfahren.
 Vom Carpark aus bin ich dann allein weitergewandert und hab erstmal den Drehort gesucht aber leider nicht gefunden.
-Stattdessen war ich dann ein wenig einfach so in dem Wald.
+Stattdessen war ich dann ein wenig einfach so in dem Wald gelaufen.
+Es gab schließlich noch andere Wanderwege.
 #+ATTR_HTML: :width 30%
 [[./images/week10/2026-02-08 13.20.17.jpg]]
-Der Weg war auch ganz schön und es sah schon etwas nach Herr der Ringe aus, schließlich war es immer noch der gleiche Wald nur die exakte Stelle.
+Der Weg war auch ganz schön und es sah schon etwas nach Herr der Ringe aus, schließlich war es immer noch der gleiche Wald nur die nicht exakte Stelle.
 Ich hab dann mit anderen Wanderen noch darüber gesprochen wie man am besten die Stellen findet und dann meinte einer sie hätten ein Buch mit allen GPS-Stellen.
-Da dachte mich mir dann auch, dass ich da hätte früher dran denken könnte direkt nach sowas zu suchen.
-Das hab ich dann auch in Nelson gemacht und tatsächlich hat jemand eine Karte mit allen Herr der Ringe Filmorten erstellt.
-[[https://www.google.com/maps/d/viewer?mid=1L6-fZ_OAS3VhY41tsZlkKATFlsI&ll=-40.96597263876322%2C175.72397819357042&z=7][Karte]]
+In Nelson hab ich dann online nach so einer Karte gesucht.
+Tatsächlich hat jemand eine [[https://www.google.com/maps/d/viewer?mid=1L6-fZ_OAS3VhY41tsZlkKATFlsI&ll=-44.85791003770525%2C168.8869953746122&z=11][Karte]] mit allen Herr der Ringe Filmorten erstellt.
 Ich hab dann auch ziemlich schnell die Entscheidung getroffen, definitiv nicht zu jedem Berg und zu jedem Wald zu gehen.
 Dafür ist es ohne Auto viel zu kompliziert und manchmal auch einfach nicht wert. Die Gärten von Isengard hätten sie beispielsweise in jedem x-beliebigen Park drehen können.
 Sowas großes wie Edoras ist hingegen ziemlich cool. Da gibts auch ne geführte Tour mit viel Behind-the-Scenes-Nerd Infos.
