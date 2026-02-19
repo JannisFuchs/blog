@@ -17,9 +17,9 @@ Der war super freundlich und zuvorkommend, manchmal fast schon aufdringlich.
 An dem Tag bin ich ein bisschen durch Christchurch gelaufen.
 Die Stadt hat ganz schönes Street Art und einen botanischen Garten.
 #+ATTR_HTML: :width 30%
-[[../images/week11/2026-02-13 17.28.39.jpg]]
+[[./images/week11/2026-02-13 17.28.39.jpg]]
 #+ATTR_HTML: :width 30%
-[[../images/week11/2026-02-14 20.10.44.jpg]]
+[[./images/week11/2026-02-14 20.10.44.jpg]]
 Ansonsten hab ich mal angefangen damit mich im Raum Queenstown zu bewerben.
 Sowas wie Fruitpicking und Farming gestaltet sich schwierig, weil ich kein Auto hab und die meisten Farmen dann doch eher außerhalb liegen.
 Ich schau trotzdem mal weiter danach vielleicht finde ich ja was, wo mit Unterkunft und Verpflegung gezahlt wird.
@@ -34,7 +34,7 @@ Ich sag jetzt absichtlich nicht Park, weil abgesehen von ein bisschen Wiese und 
 Das ist ein Überbleibsel von den schweren Erdbeben aus dem Jahr 2011.
 Ich hab da sogar ein einsames Zelt von einem Wildcampter gesehen und ein Baumhaus.
 #+ATTR_HTML: :width 30%
-[[../images/week11/2026-02-15 14.49.58.jpg]]
+[[./images/week11/2026-02-15 14.49.58.jpg]]
 
 * Montag
 Das war der eigentliche Grund für meine Reise nach Christchurch.
@@ -44,14 +44,14 @@ Das set wurde auf Mt Sunday, einem kleinen Hügel in den Southern Alps, gebaut.
 Es ist leider mehr davon übrig, weil alles in einer Art Naturschutzgebiet gedreht wurde und sie das gesamte Set wieder abbauen mussten.
 Die Landschaft sieht dort aber einfach echt umwerfend aus.
 #+ATTR_HTML: :width 30%
-[[../images/week11/2026-02-16 14.11.17.jpg]]
+[[./images/week11/2026-02-16 14.11.17.jpg]]
 Bei der Tour waren auch noch Replika von den Filmrequisiten mit dabei.
 Das bin ich mit Sting dem Schwert, was blau leuchtet, wenn Orks in der Nähe sind.
 #+ATTR_HTML: :width 30%
-[[../images/week11/2026-02-16 13.15.01.jpg]]
+[[./images/week11/2026-02-16 13.15.01.jpg]]
 Auf dem Weg hin und zurück gab es weitere atemberaubende Landschaften wie diesen Fluss
 #+ATTR_HTML: :width 30%
-[[../images/week11/2026-02-15 14.49.58.jpg]]
+[[./images/week11/2026-02-15 14.49.58.jpg]]
 und natürlich ganz viele Stories von dem Set.
 Am Ende haben wir noch ein Interview mit dem Cast kurz vor der Veröffentlichung von "The two Towers" geschaut.
 Das war wirklich ein echt hartes Projekt. Die ganze Trilogie wurde in einem zwei Jahres Marathon gedreht mit Drehbeginn oft um 5 Uhr morgens bei einem 10h Drehtag.
@@ -65,6 +65,6 @@ Ich hab dafür dann mein Abendessen mit ihm geteilt.
 * Mittwoch
 An dem Tag bin ich ein bisschen durch Dunedin gelaufen und bin die steilste Straße der Welt hochgegangen.
 #+ATTR_HTML: :width 30%
-[[../images/week11/2026-02-18 11.44.27_1.jpg]]
+[[./images/week11/2026-02-18 11.44.27_1.jpg]]
 Ich hab außerdem wieder eine Bewerbung geschrieben.
 

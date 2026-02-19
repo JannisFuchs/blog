@@ -102,7 +102,7 @@ In dieser Woche war ich in Nelson und Abel Tasman viel wandern und kajaken.
 <a href="blogs/week11.html" class="entry">
 <img src="./images/week11/2026-02-16 14.11.17.jpg" alt="funny picture" class="entryimg" width="30%" />
 <div class="entrytext">
-<h3>Woche 10(12.02-19.02.): Edoras</h3>
+<h3>Woche 11(12.02-19.02.): Edoras</h3>
 In dieser Woche habe ich eine Tour nach Edoras, der Hauptstad Rohans, dem Reich der Reiter gemacht.
 </div>
 </a>
