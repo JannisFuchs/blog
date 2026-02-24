@@ -2,11 +2,11 @@
 #+TITLE: Dunedin
 
 * Vorwort
-Ich bin mit meinem Blog Zeitplan etwas verrutscht deshalb kommt jetzt ein Blog und wahrscheinlich am Wochenende wieder
+Ich bin mit meinem Blog Zeitplan etwas verrutscht, deshalb kommt jetzt ein Blog und wahrscheinlich am Wochenende wieder
 * Freitag
 Das war ein wunderbarer Tag um Zug zu fahren.
 Deshalb habe ich mir mal so ein Touristikzug gegönnt.
-Es war schon ein bisschen seltsam, weil ich glaube ich geschätzt 15 Jahre zur zweitjüngsten Person hatte (Kinder ausgenommen).
+Es war schon ein bisschen seltsam, weil ich geschätzt 15 Jahre Abstand zur zweitjüngsten Person hatte (Kinder ausgenommen).
 Aber die Tour war trotzdem schön.
 Der Zug selbst war bewusst im eher altmodischen Stil gehalten.
 #+ATTR_HTML: :width 30%
@@ -16,7 +16,7 @@ Ich hab übrigens die "Taieri Gorge"-Tour genommen.
 #+ATTR_HTML: :width 30%
 [[./images/Week12/Route.jpeg]]
 Die geht wie der Name schon sagt an einer Art Schlucht zwischen Bergen entlang.
-Was ich besonders witzig fande war das eine Haus, was mitten im Nirgendwo steht und heute glaube ich so ne Art Ferienhaus ist.
+Besonders witzig fande ich das eine Haus, was mitten im Nirgendwo steht und heute, glaube ich, so ne Art Ferienhaus ist.
 #+ATTR_HTML: :width 30%
 [[./images/Week12/2026-02-20 10.26.53.jpg]]
 Da führt wirklich keine Straße hin.
@@ -27,11 +27,11 @@ Wir haben dann auch mal zwischendurch angehalten, um die Aussicht zu genießen.
 #+ATTR_HTML: :width 30%
 [[./images/Week12/2026-02-20 11.38.24.jpg]]
 Mitten in der Landschaft stehen bleiben und dann die Leute aussteigen lassen.. Das kennt man sonst nur von der [[https://youtu.be/jTDtoVql4hc?t=1328][Deutschen Bahn]].
-Ich wollte eigentlich kein Bahn-Bashing mehr machen aber der hat sich von selbst geschrieben.
+Ich wollte eigentlich kein Bahn-Bashing mehr machen aber der Witz hat sich von selbst geschrieben.
 Wir hatten am Ende ein echtes neuseeländisches DB-Erlebnis.
-Es gab erst ne Weichenstörung oder ne Signalstörung genau wusste es auch der Sprecher nicht und dann haben wir gewartet bis die Güterzüge oder so die Gleise freigeben.
+Es gab erst ne Weichenstörung oder ne Signalstörung, genau wusste es auch der Sprecher, nicht und dann haben wir gewartet bis die Güterzüge oder so die Gleise freigeben.
 Laut dem Schaffner ist das noch nie passiert, während er mitgefahren ist.
-Keine Ahnung vielleicht wollte mir Neuseeland ein bisschen Heimatgefühl vermitteln.
+Vielleicht wollte mir Neuseeland ein bisschen Heimatgefühl vermitteln.
 
 * Samstag
 An dem Tag bin ich Mt Cargill und die Organ Pipes(dt. Orgelpfeifen) hochgewandert.
