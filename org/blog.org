@@ -116,3 +116,12 @@ In dieser Woche habe ich mir verschiedene Dinge in Dunedin angeschaut
 </div>
 </a>
 #+end_export
+#+begin_export html
+<a href="blogs/week13.html" class="entry">
+<img src="./images/week13/2026-02-28 17.20.54.jpg" alt="funny picture" class="entryimg" width="30%" />
+<div class="entrytext">
+<h3>Woche 13(26.02-28.02.): Ankunft in Queenstown</h3>
+In der halben Woche bin ich von Dunedin abgereist und in Queenstown angekommen.
+</div>
+</a>
+#+end_export

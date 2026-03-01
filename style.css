@@ -33,9 +33,12 @@ nav {
     }
 .navimg {
     max-height: 100px;
+    width: 100%
 }
 img {
     max-width: 100%;
+    width: 30%;
+    height: auto;
     display: block;
     border-radius: 7px;
     margin-bottom: 10px;
