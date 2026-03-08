@@ -1,6 +1,10 @@
 #+OPTIONS: toc:nil
 #+TITLE: Erster Arbeitstag
 
+* Montag
+An dem Tag habe ich mir die Queenstown Gardens angeschaut.
+[[./images/week14/2026-03-02 18.22.51.jpg]]
+Besonders beeindruckend finde ich diese riesigen Bäume, die man da im Hintergrund sieht.
 * Dienstag
 An dem Tag bin ich endlich mal wieder zum Friseur gegangen. Das war auch bitter nötig.
 Vorher:
