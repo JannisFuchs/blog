@@ -125,3 +125,12 @@ In der halben Woche bin ich von Dunedin abgereist und in Queenstown angekommen.
 </div>
 </a>
 #+end_export
+#+begin_export html
+<a href="blogs/week14.html" class="entry">
+<img src="./images/week14/2026-03-04 14.51.56.jpg" alt="funny picture" class="entryimg" width="30%" />
+<div class="entrytext">
+<h3>Woche 14(03.03-05.03): erster Arbeitstag</h3>
+In der Woche hab ich mal gearbeitet.
+</div>
+</a>
+#+end_export
