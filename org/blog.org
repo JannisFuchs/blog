@@ -146,7 +146,7 @@ Das sind jetzt zwei Wochen aber egal. Ich war jedenfalls Skydiven
 
 #+begin_export html
 <a href="blogs/week16.html" class="entry">
-<img src="./images/woche15/000148.jpg" alt="funny picture" class="entryimg" width="30%" />
+<img src="./images/woche16/2026-04-04 17.35.48_10.jpg" alt="funny picture" class="entryimg" width="30%" />
 <div class="entrytext">
 <h3>Woche 16(23.03-06.03): Milford sound</h3>
 In der Zeit habe ich mit meiner Freundin Juliette und anderen Freunden aus dem Hostel sehr viele coole Dinge erlebt.
