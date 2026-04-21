@@ -148,8 +148,17 @@ Das sind jetzt zwei Wochen aber egal. Ich war jedenfalls Skydiven
 <a href="blogs/week16.html" class="entry">
 <img src="./images/woche16/2026-04-04 17.35.48_10.jpg" alt="funny picture" class="entryimg" width="30%" />
 <div class="entrytext">
-<h3>Woche 16(23.03-06.03): Milford sound</h3>
+<h3>Woche 16(23.03-06.04): Milford sound</h3>
 In der Zeit habe ich mit meiner Freundin Juliette und anderen Freunden aus dem Hostel sehr viele coole Dinge erlebt.
+</div>
+</a>
+#+end_export
+#+begin_export html
+<a href="blogs/week17.html" class="entry">
+<img src="./images/woche17/WhatsApp Image 2026-04-14 at 22.03.07.jpeg" alt="funny picture" class="entryimg" width="30%" />
+<div class="entrytext">
+<h3>Woche 17(07.04-20.04): Abschied von Queenstown</h3>
+Das ist der Start unseres Roadtrips von Queenstown nach Dunedin und Te Anau.
 </div>
 </a>
 #+end_export
