@@ -165,7 +165,7 @@ Das ist der Start unseres Roadtrips von Queenstown nach Dunedin und Te Anau.
 
 #+begin_export html
 <a href="blogs/week18.html" class="entry">
-<img src="./images/woche18/2026-04-21 15.09.04.jpg" alt="funny picture" class="entryimg" width="30%" />
+<img src="./images/woche18/WhatsApp Image 2026-04-24 at 19.37.03.jpeg" alt="funny picture" class="entryimg" width="30%" />
 <div class="entrytext">
 <h3>Woche 18(21.04-28.04): Wanaka und Twizel</h3>
 In der Woche waren wir in Wanaka und danach in Twizel.
