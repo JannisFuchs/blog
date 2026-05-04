@@ -172,3 +172,13 @@ In der Woche waren wir in Wanaka und danach in Twizel.
 </div>
 </a>
 #+end_export
+
+#+begin_export html
+<a href="blogs/week19.html" class="entry">
+<img src="./images/Woche19/2026-04-29 15.08.27.jpg" alt="funny picture" class="entryimg" width="30%" />
+<div class="entrytext">
+<h3>Woche 19(29.04-03.05): Kaikoura und Nelson</h3>
+In dieser Woche sind wir im Schnee gewandert.
+</div>
+</a>
+#+end_export
